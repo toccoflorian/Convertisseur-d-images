@@ -1,0 +1,23 @@
+    
+            CONVERTISSEUR D'IMAGES 
+    
+    by Florian TOCCO www.linkedin.com/in/florian-tocco
+
+
+
+1.) Placez les images que vous voulez convertir dans le dossier "images d'entrée".
+
+2.) Démmarez le programme et choisissez le format que vous souhaitez quand cela vous sera demander.
+
+3.) Une fois le programme executé jusqu'à la fin, vos images converties se trouvent dans le dossier "images de sortie".
+
+
+
+
+REMARQUES:
+
+    - ATTENTION le programme se ferme automatiquement au bout de deux heures sans effectuer d'actions.
+
+    - IMPORTANT "main.py" dois avoir les dossier "images d'entrée" et "images de sortie" dans le même repertoire.
+
+    - Si le programme s'ouvre et se referme aussi tôt, vérifiez l'orthographe des dossier "images d'entrée" et "images de sortie" si l'orthographe est incorrect, rectifiez le ou créez les dossier avec les noms corrects. 
